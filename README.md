@@ -21,6 +21,7 @@ once you have downloaded the package and it's sitting on your desktop, download 
 
 
 SPECIAL THANKS TO:
+
 BenSav (LMAO), who helped me figure out how to connect my bot after V3 (const socket = io("https://v2.windows93.net:8088") <-- don't click on this link
 
 BathFinder, who helped me actually loop the damn thing (apparently i had to use setInterval instead of setTimeout)
