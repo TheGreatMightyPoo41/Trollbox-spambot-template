@@ -1,4 +1,4 @@
-	const he = require("he") //i dont think this is needed, unless you wanna send emojis
+	const he = require("he") 
 const io = require("socket.io-client");
 const socket = io("https://v2.windows93.net:8088", { //DUE TO V3 UPDATE, YOU HAVE TO USE https://v2.windows93.net:8088 TO CONNECT YOUR BOT 
 	forceNew: true,
