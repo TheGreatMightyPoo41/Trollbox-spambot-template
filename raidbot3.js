@@ -40,3 +40,15 @@ setInterval(loop, 1250) //USE SETINTERVAL, NOT SETTIMEOUT, and keep it over 1000
             })
 
 //this bot uses if data.home to activate when you say something
+//
+//if you wanna use multiple collums, use "socket.send(``)" instead
+//EXAMPLE:
+//
+//socket.send(`N
+//I
+//G
+//G
+//E
+//R`)
+//
+//ofcourse, you can also just add spaces to 'clear' the entire chat
