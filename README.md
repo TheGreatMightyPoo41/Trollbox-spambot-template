@@ -6,3 +6,5 @@ Once you have downloaded socket io, drag the raidbot3.js file into the folder.
 Then, open a new powershell in administrator, run cd C:\Users\user\Desktop\foldername\, and then node raidbot3.js.
 
 If you wanna disconnect the bot, close the terminal you used to run the bot.
+
+Don't touch any of the shit in raidbot3.js unless you know what you're doing.
