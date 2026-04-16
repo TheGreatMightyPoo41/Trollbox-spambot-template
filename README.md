@@ -7,4 +7,4 @@ Then, open a new powershell in administrator, run cd C:\Users\user\Desktop\folde
 
 If you wanna disconnect the bot, close the terminal you used to run the bot.
 
-Don't touch the upper half of the code in raidbot3.js unless you know what you're doing.
+Don't touch the upper half of the code in raidbot3.js unless you know what you're doing. (The one that comes BEFORE the first instance of socket.emit)
