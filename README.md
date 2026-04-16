@@ -19,6 +19,11 @@ HOW TO RUN THE BOT:
 once you have downloaded the package and it's sitting on your desktop, download 'raidbot3.js' and put it in the folder. once youve done this, open POWERSHELL, run in administrator, and type "cd C:\Users\user\Desktop\foldername\", replace foldername with the name of your folder. once youve done this, type node raidbot3.js and it should connect.
 
 
+i can't believe i have to say this, but if you wanna disconnect the bot, close the terminal you used to run that bot.
+
+
+if someone bad-mouths you for being a skid (what i'm calling you right now, even doe i don't care that you're skidding) xhey are probably just seething.
+
 
 SPECIAL THANKS TO:
 
